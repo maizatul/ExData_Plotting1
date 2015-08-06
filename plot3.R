@@ -1,5 +1,5 @@
 #set working directory
-setwd("/Users/DELL 1/Documents/Module 4 - Exploratory Data Analysis")
+setwd("/Users/DELL 1/Documents/Module4")
 
 #load from library data.table
 library(data.table)

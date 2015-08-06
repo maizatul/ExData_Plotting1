@@ -1,10 +1,6 @@
 #set working directory
-
 getwd()
-setwd("/Users/DELL 1/Documents/Module 4 - Exploratory Data Analysis")
-
-#set working directory
-setwd("C:/Users/Kuan/Desktop/exdata/")
+setwd("/Users/DELL 1/Documents/Module4")
 
 #load from library data.table
 library(data.table)
